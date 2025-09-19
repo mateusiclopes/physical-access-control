@@ -4,7 +4,7 @@
 > **PT-BR (resumo):** Visão profissional sobre Controle de Acesso Físico (PAC) na cibersegurança.
 
 📄 **Full bilingual document (EN → PT):**  
-[docs/Physical-Access-Control.pdf](docs/Physical-Access-Control.pdf)
+[docs/Physical-Access-control.pdf](docs/Physical-Access-control.pdf)
 
 ## 📌 Topics Covered
 - PAC concept; preventive/detective/corrective controls
